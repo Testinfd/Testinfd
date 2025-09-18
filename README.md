@@ -23,56 +23,65 @@ My current focus is on **AI and Automation** as a strategic area of growth. I am
 ## My Tech Stack
 
 <div align="center">
+  <p><strong>A selection of technologies I'm proficient with:</strong></p>
   <table>
     <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/fastapi-icon.svg" alt="icon" width="65" height="65" />
-        <br>FastAPI
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65" />
-        <br>Node.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-        <br>React
-      </td>
+      <td align="center" colspan="3"><strong>Languages & Backend</strong></td>
+      <td align="center" colspan="3"><strong>Frontend & Data</strong></td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="65" height="65" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="65" height="65" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="65" height="65" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="65" height="65" />
         <br>PostgreSQL
       </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/supabase-icon.svg" alt="icon" width="65" height="65" />
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="65" height="65" />
         <br>Supabase
       </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="3"><strong>Frameworks & Infrastructure</strong></td>
+      <td align="center" colspan="3"><strong>Ops & Automation</strong></td>
+    </tr>
+    <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="65" height="65" />
+        <br>FastAPI
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" alt="Express" width="65" height="65" />
+        <br>Express
+      </td>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="65" height="65" />
         <br>Docker
       </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="65" height="65" />
         <br>AWS
       </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="icon" width="65" height="65" />
-        <br>Git
-      </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-actions-icon.svg" alt="icon" width="65" height="65" />
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="65" height="65" />
         <br>Actions
       </td>
     </tr>
