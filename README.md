@@ -163,6 +163,6 @@ My current focus is on **AI and Automation** as a strategic area of growth. I am
 ---
 
 ## Contact
-- **Email (preferred):** ripuranjanbaruah@gmail.com
+- **Email (preferred):** ripuranjanbaruah@zohomail.in
 - **GitHub:** <https://github.com/Testinfd>
 - **Discord:** `@ripu0`
