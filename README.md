@@ -109,7 +109,7 @@ My current focus is on **AI and Automation** as a strategic area of growth. I am
 <td width="50%">
 <h3 align="center">ChessMaster</h3>
 <div align="center">
-<p>An analysis tool to study chess openings and visualize strategic lines. A personal exercise in applying logical, systematic thinking to a complex domain.</p>
+<p>Telegram bot for managing/sharing chess courses, with features like multi-file handling, inline search, token verification, and premium tiers.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
