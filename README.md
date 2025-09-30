@@ -112,9 +112,9 @@ My current focus is on **AI and Automation** as a strategic area of growth. I am
 <p>Telegram bot for managing/sharing chess courses, with features like multi-file handling, inline search, token verification, and premium tiers.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
-<a href="https://github.com/Testinfd/ChessMaster" target="_blank"><img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/r-baruah/Chess-Master" target="_blank"><img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 </td>
 </tr>
